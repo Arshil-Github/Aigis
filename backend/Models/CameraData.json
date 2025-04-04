@@ -1,0 +1,26 @@
+[
+  {
+    "location": {
+      "lat": 28.854194,
+      "lon": 78.772403
+    },
+    "isIsolated": false,
+    "isWellLit": true
+  },
+  {
+    "location": {
+      "lat": 28.854264,
+      "lon": 78.773294
+    },
+    "isIsolated": false,
+    "isWellLit": true
+  },
+  {
+    "location": {
+      "lat": 28.854227,
+      "lon": 78.771921
+    },
+    "isIsolated": false,
+    "isWellLit": true
+  }
+]
