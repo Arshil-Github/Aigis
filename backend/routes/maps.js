@@ -3,7 +3,7 @@ const mapRouter = express.Router();
 const { spawn } = require("child_process");
 const cameradata = require("../Models/CameraData.json");
 
-const GRAPH_HOPPER_API_KEY = "b43ba286-2b19-46c3-8066-4bf24159527f"; // Replace with your API key
+const GRAPH_HOPPER_API_KEY = "b43ba286-2b19-46c3-8066-4bf24159527f";
 
 // Models (simplified for example)
 const SafetyRecord = {
